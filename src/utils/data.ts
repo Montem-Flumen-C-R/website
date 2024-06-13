@@ -78,28 +78,28 @@ const about_data = [
         linkedin: "https://linkedin.com/in/egor-shubin-a20bb3257",
         name: "Egor Shubin",
         job: "CEO / Co-Founder",
-        description: "MS IBM, Bachelor in Civil Engineering"
+        description: "MS in International Business Management, BE in Civil Engineering"
     },
     {
         img: "/about-us/sagar.jpg",
         linkedin: "https://www.linkedin.com/in/sagar1998m",
         name: "Sagar Pandey",
         job: "Marketing Manager / Co-Founder",
-        description: "MS IBM, Bachelor in Multimedia Arts"
+        description: "MS in International Business Management, BA in Multimedia Arts"
     },
  {
         img: "/about-us/dan.png",
         linkedin: "https://www.linkedin.com/in/daniel-fellegger-0094a8166/",
         name: "Daniel Fellegger",
         job: "CTO, Co-Founder",
-        description: "9 Years in Agile Software Development specializing in Project Management & Team Leadership"
+        description: "BS in Computer Science, 9 Years in Agile Software Development specializing in Project Management & Team Leadership"
     },
  {
         img: "/about-us/mustari.JPG",
-        linkedin: "",
+        linkedin: "https://www.linkedin.com/in/mushtariybonu-shodikulova-0ab6081ba/",
         name: "Mushtariy",
         job: "Computer Vision Engineer / Co-Founder",
-        description: "Bachelor in AI in Yonsei University"
+        description: "BS in Computer Science"
     },
 /* {
         img: "/about-us/sebastian.png",
@@ -113,21 +113,21 @@ const about_data = [
         linkedin: "https://www.linkedin.com/in/john-paul-paredes-diez-de-medina-644922296",
         name: "John Paul Paredes",
         job: "AI Engineer",
-        description: "Bachelor in AI"
+        description: "BS in Artificial Intelligence"
     },
 {
         img: "/about-us/zokir.jpg",
-        linkedin: "",
+        linkedin: "https://www.linkedin.com/in/zokir9/",
         name: "Zokir Mirtursunov",
         job: "Mechanical Engineer",
         description: "Bachelor in Mechanical Engineering"
     },
 {
         img: "/about-us/clinton.png",
-        linkedin: "",
+        linkedin: "https://www.linkedin.com/in/safeh-clinton-919bb1b9/",
         name: "Safeh Clinton Manwah",
         job: "Mechatronics Engineer",
-        description: "Ma in Mechatronics Engineering"
+        description: "Masters in Mechatronics Engineering"
     },
 /* {
          img: "/about-us/emmanuel.png",
