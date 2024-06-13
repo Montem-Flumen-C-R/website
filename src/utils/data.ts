@@ -127,10 +127,10 @@ const about_data = [
         linkedin: "",
         name: "Safeh Clinton Manwah",
         job: "Mechatronics Engineer",
-        description: "Masters in Mechatronics Engineering"
+        description: "Ma in Mechatronics Engineering"
     },
- {
-/*         img: "/about-us/emmanuel.png",
+/* {
+         img: "/about-us/emmanuel.png",
         linkedin: "",
         name: "Emmanual",
         job: "Framework Engineer",
