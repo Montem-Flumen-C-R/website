@@ -88,6 +88,13 @@ const about_data = [
         description: "MS IBM, Bachelor in Multimedia Arts"
     },
  {
+        img: "/about-us/dan.png",
+        linkedin: "https://www.linkedin.com/in/daniel-fellegger-0094a8166/",
+        name: "Daniel Fellegger",
+        job: "CTO, Co-Founder",
+        description: "9 Years in Agile Software Development specializing in Project Management & Team Leadership. Previously Team Lead and Engineering Manager at two Korean startups"
+    },
+ {
         img: "/about-us/mustari.JPG",
         linkedin: "",
         name: "Mushtariy",
@@ -108,8 +115,22 @@ const about_data = [
         job: "AI Engineer",
         description: "Bachelor in AI"
     },
+{
+        img: "/about-us/zokir.jpg",
+        linkedin: "",
+        name: "Zokir Mirtursunov",
+        job: "Mechanical Engineer",
+        description: "Bachelor in Mechanical Engineering"
+    },
+{
+        img: "/about-us/clinton.png",
+        linkedin: "",
+        name: "Safeh Clinton Manwah",
+        job: "Mechatronics Engineer",
+        description: "Masters in Mechatronics Engineering"
+    },
  {
-        img: "/about-us/emmanuel.png",
+/*         img: "/about-us/emmanuel.png",
         linkedin: "",
         name: "Emmanual",
         job: "Framework Engineer",
@@ -128,7 +149,7 @@ const about_data = [
         name: "Niranjan Dahal",
         job: "Advisor",
         description: "MSC Physics TU"
-    },
+    }, */
 ]
 
 export { services, company_name, tag_line, description, mission_short, mission_long, vision_short, vision_long, about_us, social_links, about_data };
