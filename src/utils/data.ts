@@ -92,7 +92,7 @@ const about_data = [
         linkedin: "https://www.linkedin.com/in/daniel-fellegger-0094a8166/",
         name: "Daniel Fellegger",
         job: "CTO, Co-Founder",
-        description: "9 Years in Agile Software Development specializing in Project Management & Team Leadership. Previously Team Lead and Engineering Manager at two Korean startups"
+        description: "9 Years in Agile Software Development specializing in Project Management & Team Leadership"
     },
  {
         img: "/about-us/mustari.JPG",
