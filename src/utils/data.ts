@@ -94,13 +94,13 @@ const about_data = [
         job: "CTO, Co-Founder",
         description: "BS in Computer Science, 9 Years in Agile Software Development specializing in Project Management & Team Leadership"
     },
- {
+/*  {
         img: "/about-us/mustari.JPG",
         linkedin: "https://www.linkedin.com/in/mushtariybonu-shodikulova-0ab6081ba/",
         name: "Mushtariy",
         job: "Computer Vision Engineer / Co-Founder",
         description: "BS in Computer Science"
-    },
+    }, */
 /* {
         img: "/about-us/sebastian.png",
         linkedin: "",
@@ -120,14 +120,14 @@ const about_data = [
         linkedin: "https://www.linkedin.com/in/zokir9/",
         name: "Zokir Mirtursunov",
         job: "Mechanical Engineer",
-        description: "Bachelor in Mechanical Engineering"
+        description: "BS in Mechanical Engineering"
     },
 {
         img: "/about-us/clinton.png",
         linkedin: "https://www.linkedin.com/in/safeh-clinton-919bb1b9/",
         name: "Safeh Clinton Manwah",
         job: "Mechatronics Engineer",
-        description: "Masters in Mechatronics Engineering"
+        description: "MS in Mechatronics Engineering"
     },
 /* {
          img: "/about-us/emmanuel.png",
