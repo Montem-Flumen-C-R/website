@@ -84,14 +84,14 @@ const about_data = [
         img: "/about-us/sagar.jpg",
         linkedin: "https://www.linkedin.com/in/sagar1998m",
         name: "Sagar Pandey",
-        job: "Marketing Manager / Co-Founder",
+        job: "CEO / Co-Founder",
         description: "MS in International Business Management, BA in Multimedia Arts"
     },
  {
         img: "/about-us/dan.png",
         linkedin: "https://www.linkedin.com/in/daniel-fellegger-0094a8166/",
         name: "Daniel Fellegger",
-        job: "CTO, Co-Founder",
+        job: "CTO",
         description: "BS in Computer Science, 9 Years in Agile Software Development specializing in Project Management & Team Leadership"
     },
 /*  {
@@ -129,27 +129,27 @@ const about_data = [
         job: "Mechatronics Engineer",
         description: "MS in Mechatronics Engineering"
     },
-/* {
+ {
          img: "/about-us/emmanuel.png",
         linkedin: "",
         name: "Emmanual",
         job: "Framework Engineer",
         description: "PhD in Chungnam University"
     },
- {
+/* {
         img: "/about-us/roberto.jpg",
         linkedin: "",
         name: "Roberto Herrera",
         job: "AI Engineer/ Developer",
         description: "Bachelors in AI Engineering"
-    },
+    },*/
  {
         img: "/about-us/niranjan.jpg",
         linkedin: "",
         name: "Niranjan Dahal",
         job: "Advisor",
         description: "MSC Physics TU"
-    }, */
+    },
 ]
 
 export { services, company_name, tag_line, description, mission_short, mission_long, vision_short, vision_long, about_us, social_links, about_data };
