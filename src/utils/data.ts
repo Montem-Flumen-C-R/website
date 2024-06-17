@@ -143,6 +143,13 @@ const about_data = [
         job: "AI Engineer/ Developer",
         description: "Bachelors in AI Engineering"
     },*/
+{
+        img: "/about-us/winer.JPG",
+        linkedin: "",
+        name: "Winner",
+        job: "External Advisor",
+        description: "Intelectual Property Consultant & Policy Advocate"
+    },
  {
         img: "/about-us/niranjan.jpg",
         linkedin: "",
