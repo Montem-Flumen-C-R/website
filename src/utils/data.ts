@@ -146,9 +146,9 @@ const about_data = [
 {
         img: "/about-us/winer.JPG",
         linkedin: "",
-        name: "Winner",
+        name: "Winner Oluwatomisin Apata",
         job: "External Advisor",
-        description: "Intelectual Property Consultant & Policy Advocate"
+        description: "Intellectual Property Consultant & Policy Advocate"
     },
  {
         img: "/about-us/niranjan.jpg",
