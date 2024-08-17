@@ -101,13 +101,7 @@ const about_data = [
         job: "Computer Vision Engineer / Co-Founder",
         description: "BS in Computer Science"
     }, */
- {
-        img: "/about-us/kate.jpg",
-        linkedin: "",
-        name: "Chernetskaya Ekatserina",
-        job: "Electrical Engineer",
-        description: "Bachelor in Mechenical Engineering"
-    },
+
 {
         img: "/about-us/john_paul.webp",
         linkedin: "https://www.linkedin.com/in/john-paul-paredes-diez-de-medina-644922296",
@@ -143,6 +137,13 @@ const about_data = [
         job: "AI Engineer/ Developer",
         description: "Bachelors in AI Engineering"
     },*/
+    {
+        img: "/about-us/kate.jpg",
+        linkedin: "",
+        name: "Chernetskaya Ekatserina",
+        job: "Electrical Engineer",
+        description: "Bachelor in Mechenical Engineering"
+    },
 {
         img: "/about-us/winer.JPG",
         linkedin: "",
